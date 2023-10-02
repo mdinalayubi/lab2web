@@ -23,8 +23,18 @@
         <a href="lab2_css_eksternal.html">CSS Eksternal</a>
         <a href="lab1_tag_dasar.html">HTML Dasar</a>
     </nav>
-</head>
-</html>
+    <!-- CSS ID Selector -->
+    <div id="intro">
+        <h1>Muhammad Din Al Ayubi</h1>
+        <p style="text-align: center; color: #ccd8e4;">Kami sedang belajar HTML dan CSS dasar, pada mata kuliah <b>Pemrograman
+Web</b> di <i>Universitas Pelita Bangsa</i>. Pelajaran pertama yang kami dapat
+adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML
+dan CSS.</p>
+<!-- CSS Class Selector -->
+    <a class="button btn-primary" href="#intro">Informasi selengkapnya.</a>
+    </div>
+</body>
+<head>
 ```
 * Selanjutnya buka pada brwoser untuk melihat hasilnya.
 ![gambar 1](gambar/Tugas1.png)
@@ -51,7 +61,7 @@
             color:#6d6a6b;
         }
     </style>
-    <head>
+<head>
 ```
 * Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat
 hasilnya.
