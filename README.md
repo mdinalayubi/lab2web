@@ -27,7 +27,7 @@
 </html>
 ```
 * Selanjutnya buka pada brwoser untuk melihat hasilnya.
-![gambar 1](gambar/Tugas 1.png)
+![gambar 1](gambar/Tugas1.png)
 ### Mendeklarasikan CSS Internal
 * Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 ```python
@@ -55,14 +55,14 @@
 ```
 * Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat
 hasilnya.
-![gambar 2](gambar/Tugas 2.png)
+![gambar 2](gambar/Tugas2.png)
 ### Menambahkan Inline CSS
 * Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
 ```python
 <p style="text-align: center; color: #ccd8e4;">
 ```
 * Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
-![gambar 3](gambar/Tugas 3.png)
+![gambar 3](gambar/Tugas3.png)
 ### Membuat CSS Eksternal
 * Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
 ```python
@@ -89,7 +89,7 @@ nav a:hover {
 </head>
 ```
 * Selanjutnya refresh kembali browser untuk melihat perubahannya.
-![gambar 4](gambar/Tugas 4.png)
+![gambar 4](gambar/Tugas4.png)
 ### Menambahkan CSS Selector
 * Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
 style_eksternal.css, tambahkan kode berikut.
@@ -120,7 +120,7 @@ style_eksternal.css, tambahkan kode berikut.
 }
 ```
 * Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
-![gambar 5](gambar/Tugas 5.png)
+![gambar 5](gambar/Tugas5.png)
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 ```python
@@ -132,7 +132,7 @@ header{
     border: 4px solid #000;
 }
 ```
-![gambar 6](gambar/Tugas 6.png)
+![gambar 6](gambar/Tugas6.png)
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 * Kalau h1 menggunakan internal dan inline pada penggunaan style nya sedangkan intro menggunakan eksternal css style nya
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
